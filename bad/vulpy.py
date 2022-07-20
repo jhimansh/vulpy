@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+import protectonce
 from pathlib import Path
 
 from flask import Flask, g, redirect, request
